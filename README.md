@@ -1,3 +1,2 @@
 # hello-world
-First time using
-testing
+My First node.js
